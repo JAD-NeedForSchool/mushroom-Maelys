@@ -1,0 +1,14 @@
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.AssemblyInfoInputs.cache
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.AssemblyInfo.cs
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.csproj.CoreCompileInputs.cache
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\bin\Debug\net6.0\Mushrooms.exe
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\bin\Debug\net6.0\Mushrooms.deps.json
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\bin\Debug\net6.0\Mushrooms.runtimeconfig.json
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\bin\Debug\net6.0\Mushrooms.dll
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\bin\Debug\net6.0\Mushrooms.pdb
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.dll
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\refint\Mushrooms.dll
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.pdb
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\Mushrooms.genruntimeconfig.cache
+C:\Users\Maely\OneDrive\Documents\Cours\Mushroom\Mushrooms\Mushrooms\obj\Debug\net6.0\ref\Mushrooms.dll
