@@ -17,8 +17,9 @@ namespace Mushrooms.Decorators
 
         public virtual string Spore()
         {
-            return champignon.Spore();
+            return this.SporeDecorated + " " + champignon.Spore();
         }
-    }
+        protected string SporeDecorated();
+    } 
 
 }

@@ -10,9 +10,9 @@ namespace Mushrooms.Decorators
     {
         public CannibaleDecorator(IChampignon champignon) : base(champignon) { }
 
-        public override string Spore()
+        protected string SporeDecorated()
         {
-            return "MIAM ! " + base.Spore();
+            return "MIAM ! ";
         }
     }
 }

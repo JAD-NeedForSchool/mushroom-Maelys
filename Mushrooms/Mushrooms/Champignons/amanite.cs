@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mushrooms.Champignons
 {
-    public class amanites : IChampignon
+    public class amanites : AbstractChampignon
     {
         public string Spore()
         {
